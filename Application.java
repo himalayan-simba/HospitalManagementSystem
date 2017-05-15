@@ -22,7 +22,7 @@ JLabel ldod1 = new JLabel("Date of Discharge");
 JLabel ladd1 = new JLabel("Address");
 JLabel lphone1 = new JLabel("Phone No.");
 JLabel lbill1 = new JLabel("Bill");
-
+//naman
 
 
 JLabel lid2 = new JLabel("Enter Patient ID");
